@@ -23,7 +23,7 @@ A|B|C|D|E
 
 This will result in: ![result](image.png)
 
-> Note: After merging, only the content of the first cell is preserved.
+> Note: After merging, only the content of the first cell is preserved. This library does not support Markdown syntax within tables; please use HTML tags for formatting requirements.
 
 # mdbook-mergecells
 
@@ -50,4 +50,4 @@ A|B|C|D|E
 
 结果将会是：![result](image.png)
 
-> 注意：合并后只保留第一个单元格中的内容。
+> 注意：合并后只保留第一个单元格中的内容。该库不支持表格内部markdown语法，有格式需求请用html标签。
