@@ -5,7 +5,7 @@ Adds cell merging capabilities to mdBook tables.
 ## Installation
 
 1. Properly install the Go programming language. Use the `go version` command to verify it;
-1. Execute the command `go install github.com/DOUBLEU9264/mdbook-mergecells` to compile and install the binary locally;
+1. Execute the command `go install github.com/E79180/mdbook-mergecells` to compile and install the binary locally;
 1. Add the line `[preprocessor.mergecells]` to the `book.toml` file in your mdBook project directory.
 
 ## How to Use
@@ -32,7 +32,7 @@ This will result in: ![result](image.png)
 ## 安装
 
 1. 正确的安装Go编程语言，使用`go version`命令来检查它；
-1. 执行命令`go install github.com/DOUBLEU9264/mdbook-mergecells@latest`以编译二进制文件并安装到本地；
+1. 执行命令`go install github.com/E79180/mdbook-mergecells@latest`以编译二进制文件并安装到本地；
 1. 在您mdBook项目目录中的`book.toml`文件添加一行`[preprocessor.mergecells]`
 
 ## 如何使用
