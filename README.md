@@ -21,7 +21,7 @@ A|B|C|D|E
 A|B|C|D|E
 ```
 
-This will result in:![result](image.png)
+This will result in: ![result](image.png)
 
 > Note: After merging, only the content of the first cell is preserved.
 
